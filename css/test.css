@@ -1,0 +1,23 @@
+*{margin:0;padding:0}
+body{background:FFF;width:100%;height:100%;color:555;font-size:14px;font-family:Helvetica,Arial,"Hiragino Sans GB",sans-serif}
+h1{word-break:break-all;font-size:32px;font-weight:700;line-height:1.5;text-align:center;padding:15px 0;margin-bottom:20px;border-bottom:2px dashed e7e7e7}
+table,td,th,tr{border-spacing:0;cellspacing:0;padding:0}
+.wrap{width:1200px;margin:0 auto}
+td{border:1px solid e7e7e7;border-spacing:0;padding:0;width:70px;height:60px;text-align:center}
+p{position:relative;padding-top:40px;height:20px;line-height:20px}
+p:before{position:absolute;left:0;top:0;display:inline-block;width:100%;height:40px;line-height:40px;font-size:30px;color:#333}
+.u21A1:before{content:'\21A1'}
+.u21A2:before{content:'\21A2'}
+.u21A3:before{content:'\21A3'}
+.u21A4:before{content:'\21A4'}
+.u21A5:before{content:'\21A5'}
+.u21A6:before{content:'\21A6'}
+.u21A7:before{content:'\21A7'}
+.u21A8:before{content:'\21A8'}
+.u21A9:before{content:'\21A9'}
+.u21AA:before{content:'\21AA'}
+.u21AB:before{content:'\21AB'}
+.u21AC:before{content:'\21AC'}
+.u21AD:before{content:'\21AD'}
+.u21AE:before{content:'\21AE'}
+.u21AF:before{content:'\21AF'}
