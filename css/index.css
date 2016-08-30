@@ -12,7 +12,8 @@ td,th{border-right:1px solid #e7e7e7;border-bottom:1px solid #e7e7e7}
 td{border-spacing:0;padding:0;width:70px;height:60px;text-align:center}
 td p{position:relative;text-align:center;padding-top:40px;height:20px;line-height:20px}
 td p span{color:#555}
-td p:before{position:absolute;left:0;top:0;text-align:center;width:100%;height:40px;line-height:40px;font-size:30px}
+td p:before{position:absolute;left:0;top:0;text-align:center;width:100%;height:40px;line-height:40px;font-size:26px}
+td p:hover:before{font-size:42px;color:#c84f4f}
 .u2190:before{content:'\2190'}
 .u2191:before{content:'\2191'}
 .u2192:before{content:'\2192'}
