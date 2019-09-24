@@ -12,9 +12,9 @@
 
 ### 速查表
   * [demo](https://chaooo.github.io/unicode_css3_content/)
-<a href="https://chaooo.github.io/unicode_css3_content/"><img src="http://obzf7z93c.bkt.clouddn.com/blog/Unicode.png" align="right"></a>
+<a href="https://chaooo.github.io/unicode_css3_content/"><img src="http://cdn.chaooo.top/blog/Unicode.png" align="right"></a>
 
-### 参考网址：
+### 更多请参考Unicode官网：
   * Unicode 9.0 Character Code Charts：[http://www.unicode.org/charts/](http://www.unicode.org/charts/)
 
 
