@@ -11,8 +11,9 @@
   * iOS等智能终端默认显示彩色，而且有一些字符的识别度也比较差，所以，使用的时候要特别注意移动浏览器。
 
 ### 速查表
-  * [demo](https://chaooo.github.io/unicode_css3_content/)
-<a href="https://chaooo.github.io/unicode_css3_content/"><img src="http://cdn.chaooo.top/blog/Unicode.png" align="right"></a>
+  * [demo预览](https://chaooo.github.io/unicode_css3_content/)
+  * <a href="https://chaooo.github.io/unicode_css3_content/"><img src="http://cdn.chaooo.top/blog/Unicode.png" align="right"></a>
+
 
 ### 更多请参考Unicode官网：
   * Unicode 9.0 Character Code Charts：[http://www.unicode.org/charts/](http://www.unicode.org/charts/)
