@@ -18,7 +18,7 @@
 
 
 ### [速查表-网页版:](https://chaooo.github.io/unicode_css3_content/)
-<a href="https://chaooo.github.io/unicode_css3_content/"><img src="http://cdn.chaooo.top/blog/Unicode.png"></a>
+<img src="http://cdn.chaooo.top/blog/Unicode.png">
 <p style="clear:both;"></p>
 
 
